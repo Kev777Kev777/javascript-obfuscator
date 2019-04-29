@@ -283,7 +283,7 @@ Following options are available for the JS Obfuscator:
 #### options:
 
 ```javascript
-{
+module.exports = {
     compact: true,
     controlFlowFlattening: false,
     controlFlowFlatteningThreshold: 0.75,
